@@ -1,0 +1,14 @@
+{
+  "add_new_review": "리뷰 등록하기",
+  "movie_title": "책 제목",
+  "one_comment": "한줄평",
+  "rate": "별점",
+  "add": "등록하기",
+  "review_search": "리뷰 검색",
+  "review_history": "리뷰 내역",
+  "required_input": "필수 입력 항목입니다",
+  "write_movie": "제목을 입력해 주세요",
+  "write_comment": "내용을 입력해 주세요",
+  "input_mandatory": "필수 입력 항목입니다",
+  "write_title": "책 제목을 입력해주세요"
+}
